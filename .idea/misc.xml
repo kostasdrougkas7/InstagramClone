@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/kosta/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_login.xml" value="0.34564102564102567" />
         <entry key="..\:/Users/kosta/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_main.xml" value="0.31203703703703706" />
         <entry key="..\:/Users/kosta/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_sign_up_main.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/kosta/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_welcome.xml" value="0.35104166666666664" />
         <entry key="..\:/Users/kosta/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/signup_login_activity.xml" value="0.3446153846153846" />
       </map>
     </option>
