@@ -7,7 +7,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
-import android.widget.EdgeEffect;
 import android.widget.EditText;
 import android.widget.Toast;
 
@@ -79,7 +78,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
     }
 
     private void transitionToSocialMediaActivity(){
-        Intent intent = new Intent(LoginActivity.this, SocailMediaActivity.class);
+        Intent intent = new Intent(LoginActivity.this, SocialMediaActivity.class);
         startActivity(intent);
     }
 }

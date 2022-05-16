@@ -3,6 +3,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.instagramclone">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <application
         android:name=".App"
         android:allowBackup="true"
@@ -15,7 +18,8 @@
         android:theme="@style/Theme.InstagramClone"
         tools:targetApi="31">
         <activity
-            android:name=".SocailMediaActivity"
+            android:name=".SocialMediaActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"
             android:exported="false" />
         <activity
             android:name=".LoginActivity"
